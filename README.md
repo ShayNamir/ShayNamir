@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shay</h1>
+<h3 align="center">🚀 Hello there! Welcome to my dynamic GitHub haven - ShayNamir's Code Odyssey. This repository serves as a vibrant tapestry, weaving together my academic pursuits, technological passions, and coding escapades. Dive in to explore, collaborate, and unravel the depths of my coding journey! 🌟</h3>
 
 - Developed a comprehensive course registration system where you can sign up as a lecturer, a student, or a teacher's assistant, and create/sign up for different courses and keep track of everything easily. [Course Registration System:](https://github.com/ShayNamir/OOP_FinalTaskQ2.git)
 
