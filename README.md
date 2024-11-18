@@ -66,13 +66,12 @@ In this repository, you'll discover a mix of projects, ideas, and snippets that 
 I'm always experimenting and learning. Here are some areas I'm currently diving into:
 
 - **Advanced Algorithms:** In the following semester, I will learn advanced algorithms such as the Hungarian Method (a computational technique used to solve the assignment problem in polynomial time) and upload the implementations here.
-- **[Computer Vision Algorithms](https://github.com/ShalomOfstein/ComputerVision_Ex1):** I am currently taking a course in Computer Vision and Image Processing. In this repository, you will find implementations of several popular CV algorithms.
 
 
 ## 🤝 Let's Connect
 
-I'm all ears for collaboration, sharing knowledge, and making new friends. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/shalom-ofstein) or here on GitHub.
-<!-- or [Email](Your Email Address). -->
+I'm all ears for collaboration, sharing knowledge, and making new friends. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/shay-namir/) or here on GitHub.
+Or [Email](ShayNamir@gmail.com).
 
 Let's learn, code, and grow together!
 
