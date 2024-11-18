@@ -70,8 +70,7 @@ I'm always experimenting and learning. Here are some areas I'm currently diving 
 
 ## 🤝 Let's Connect
 
-I'm all ears for collaboration, sharing knowledge, and making new friends. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/shay-namir/) or here on GitHub.
-Or [Email](ShayNamir@gmail.com).
+I'm all ears for collaboration, sharing knowledge, and making new friends. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/shay-namir/), [Email](ShayNamir@gmail.com) or here on GitHub.
 
 Let's learn, code, and grow together!
 
