@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shay Namir
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shay-namir/))]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shay-namir/))
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shay-namir/)](https://www.linkedin.com/in/shay-namir/)
 ![Profile Views](https://komarev.com/ghpvc/?username=ShayNamir&color=blue&style=flat-square)
 
 Welcome to my GitHub profile! I'm a passionate software engineer and C++ developer. Currently, I'm exploring **full-stack development** and working on innovative projects like protective goggles for soldiers and tools to manage wedding invitations.  
@@ -42,6 +42,6 @@ Here, you'll find a collection of my **projects**, **coursework**, and **contrib
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Email: [youremail@example.com](mailto:youremail@example.com)  
+- LinkedIn: [linkedin.com/in/shay-namir/](https://www.linkedin.com/in/shay-namir/)  
+- Email: [shay.namir@example.com](mailto:shaynamir@gmail.com)  
 - GitHub: [github.com/ShayNamir](https://github.com/ShayNamir)
