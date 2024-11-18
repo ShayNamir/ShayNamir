@@ -10,16 +10,15 @@
   <img src="https://komarev.com/ghpvc/?username=ShayNamir&color=blue&style=flat-square" />
 </p>
 
-<h3 align="center">Welcome to my GitHub profile! I’m a passionate Computer Science student at Ariel University specializing in Cybersecurity. I focus on security research, leveraging Artificial Intelligence and Machine Learning to develop innovative solutions. Here, you’ll find a collection of my projects, research, and contributions that demonstrate my skills and expertise.</h3>
+<h3 align="center">Welcome to my GitHub profile! I’m a passionate Computer Science student at Ariel University specializing in Cybersecurity, security research, leveraging Artificial Intelligence and Machine Learning to develop innovative solutions. Here, you’ll find a collection of my projects, research, and contributions that demonstrate my skills and expertise.</h3>
 
 | 📈 Statistics | ⚡ Fun fact |
 |:---:|:---:|
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayNamir&show_icons=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayNamir&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450)](https://github.com/anuraghazra/github-readme-stats) |
 
 ## 👨‍💼 About Me
-- **Education:** Pursuing a Bachelor's Degree in Computer Science at Ariel University, with a focus on Data Science and AI/ML.
-- **Honors:** Member of the Students Honors Program and consistently on the Dean's List.
-
+- **Personal Projects::** Entrepreneur and developer of a full-stack real estate application with a paying user base.
+- **Education:** Pursuing a Bachelor's Degree in Computer Science at Ariel University, with a focus on Cybersecurity.
 
 ## 🚀 What You'll Find Here
 
