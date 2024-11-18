@@ -25,14 +25,12 @@ Here, you'll find a collection of my **projects**, **coursework**, and **contrib
 
 ## 👨‍💻 About Me
 
-- **Education:** Pursuing C++ development expertise and exploring full-stack technologies.
-- **Military Role:** Reservist soldier developing innovative tech solutions for defense.
-- **Honors:** Consistently maintaining high standards in technical skills.
+- **Education:**  Pursuing a Bachelor's Degree in Computer Science at Ariel University.
 
 ---
 
 ## 🚀 What You'll Find Here
-
+In this repository, you'll discover a mix of projects, ideas, and snippets that define who I am as a developer and a person. Here's a sneak peek at what you can expect:
 - **Open Source Contributions:** Innovative projects for personal and professional growth.
 - **Learning Resources:** Notes and repositories on C++, full-stack development, and more.
 - **Collaborations:** Tools to streamline processes, like:
