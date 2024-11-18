@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/shay-namir/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Profile"/>
   </a>
-  <img src="[https://komarev.com/ghpvc/?username=shalomofstein&label=Profile%20views&color=0e75b6&style=flat" alt="shalomofstein](https://komarev.com/ghpvc/?username=ShayNamir&color=blue&style=flat-square)" />
+  <img src="https://komarev.com/ghpvc/?username=ShayNamir&color=blue&style=flat-square" />
 </p>
 
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Computer Science student at Ariel University specializing in Data Science, Artificial Intelligence, and Machine Learning. Here, you'll find a collection of my projects, coursework, and contributions that showcase my skills and experiences.</h3>
