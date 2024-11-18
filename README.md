@@ -17,7 +17,7 @@
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayNamir&show_icons=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayNamir&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450)](https://github.com/anuraghazra/github-readme-stats) |
 
 ## 👨‍💼 About Me
-- **Personal Projects::** Entrepreneur and developer of a full-stack real estate application with a paying user base.
+- **Personal Projects:** Entrepreneur and developer of a full-stack real estate application with a paying user base.
 - **Education:** Pursuing a Bachelor's Degree in Computer Science at Ariel University, with a focus on Cybersecurity.
 
 ## 🚀 What You'll Find Here
@@ -25,11 +25,9 @@
 In this repository, you'll discover a mix of projects, ideas, and snippets that define who I am as a developer and a person. Here's a sneak peek at what you can expect:
 
 ### Projects
-- *[Machine Learning Models](https://github.com/ShalomOfstein/Basic_ML_Models)* This is a collection of implementations for Naive Bayes, Linear Regression, and Logistic Regression models with custom functionalities and evaluation metrics.
-- *[Viking Chess](https://github.com/ShalomOfstein/Viking_Chess_OOP_task_1):* This is an assignment from my OOP course. I created a strategic board game inspired by historical Viking chess, complete with an interactive GUI for an engaging playing experience.
-- *[RUDP protocol](https://github.com/ShalomOfstein/NetworkProgramming3):* This repository was for Networks course. I implemented a reliable protocol to ensure data transmission over an unreliable UDP network, tested under various network conditions.
-- *[Course Registration System](https://github.com/ShalomOfstein/Course_Registration_System_OOP_finalProject):* Developed a comprehensive course registration system where you can sign up as a lecturer, a student, or a teacher's assistant, and create/sign up for different courses and keep track of everything easily.
-- *[Artificial intelligence Algorithms](https://github.com/ShalomOfstein/BayesianNetworkProject):* This project demonstrates my implementation of Bayesian Networks, focusing on efficient probability calculations through Variable Elimination (VE) and Bayes Ball inference methods. The project highlights my ability to model complex probabilistic relationships and optimize computational efficiency in AI algorithms.
+- *[Viking Chess](https://github.com/ShayNamir/Viking_Chess.git):* This is an assignment from my OOP course. I created a strategic board game inspired by historical Viking chess, complete with an interactive GUI for an engaging playing experience.
+- *[Course Registration System](https://github.com/ShayNamir/Course_Registration_System.git):* Developed a comprehensive course registration system where you can sign up as a lecturer, a student, or a teacher's assistant, and create/sign up for different courses and keep track of everything easily.
+- *[Flight Management System](https://github.com/ShayNamir/Flight_Management_System.git):* An advanced flight management system that creates, manages, and tracks flights and travel plans. This project was developed as part of an Object-Oriented Programming course, showcasing my skills in designing robust and efficient systems.
 
 
 <h3 align="left">Languages and Tools:</h3>
